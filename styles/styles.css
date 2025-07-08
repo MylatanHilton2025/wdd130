@@ -10,32 +10,44 @@ h1 {
     color: darkblue;
     }
 main img {
-    width: 150px;
+    width: 200px;
     height: auto;
-    border:1px solid black;
-    padding: 2px;
-    box-shadow: 0 0 30px gray;
+    margin: 1em;
+    border:10px solid rgba(0,0,0,2); 
+    padding: 1rem;
+    background-color: #eee;
+    color: #333;
+    text-align: center;
+}
+
+aside {
+    width: 200px;
+    height: auto;
+    margin: 2;
+    border:10px solid rgba(0,0,0,2); 
+    padding: 1rem;
+    background-color: #eee;
+    color: #333;
+    text-align: center;
+    
+
+    
 }
 p {
     padding:0;
+  
 }
 aside img {
-    width: 20em;
-    margin:1em;
-    border: 1px solid rgba(0,0,0,2);
-    padding:1 em;
-    background-color:blueviolet;
-    color:black;
-    text-align:center;
-}
-aside img {
-    width : 200px;
+    width: 200px;
     height: auto;
-    border: #000;
+    margin: 0em;
+    border:1px solid rgba(0,0,0,2);
+    padding: 0rem;
+    background-color:gainsboro;
+    color:green;
     text-align: center;
-    
-     
 }
+     
 
 footer {
   margin-top:1em;
