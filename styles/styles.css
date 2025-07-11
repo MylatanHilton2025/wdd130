@@ -15,8 +15,8 @@ main img {
     margin: 1em;
     border:10px solid rgba(0,0,0,2); 
     padding: 1rem;
-    background-color: #eee;
-    color: #333;
+    background-color: #eeeeee;
+    color: black;
     text-align: center;
 }
 
@@ -27,7 +27,7 @@ aside {
     border:10px solid rgba(0,0,0,2); 
     padding: 1rem;
     background-color: #eee;
-    color: #333;
+   color: cornflowerblue;
     text-align: center;
     
 
@@ -44,7 +44,7 @@ aside img {
     border:1px solid rgba(0,0,0,2);
     padding: 0rem;
     background-color:gainsboro;
-    color:green;
+    color: black;
     text-align: center;
 }
      
