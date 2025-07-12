@@ -9,6 +9,22 @@ nav a {color: white;
 h1 {
     color: darkblue;
     }
+
+
+aside {
+    width: 200px;
+    margin:2;
+    border:10px solid rgba(0,0,0,2); 
+    padding: 0;
+    background-color: #eee;
+   color: cornflowerblue;
+
+        
+}
+aside main img { 
+    width: 200px;
+    height: auto;
+}
 main img {
     width: 200px;
     height: auto;
@@ -17,40 +33,14 @@ main img {
     padding: 1rem;
     background-color: #eeeeee;
     color: black;
-    text-align: center;
 }
 
-aside {
-    width: 200px;
-    height: auto;
-    margin: 2;
-    border:10px solid rgba(0,0,0,2); 
-    padding: 1rem;
-    background-color: #eee;
-   color: cornflowerblue;
-    text-align: center;
-    
-
-    
-}
 p {
     padding:0;
-  
 }
-aside img {
-    width: 200px;
-    height: auto;
-    margin: 0em;
-    border:1px solid rgba(0,0,0,2);
-    padding: 0rem;
-    background-color:gainsboro;
-    color: black;
-    text-align: center;
-}
-     
 
 footer {
-  margin-top:1em;
-  border-top: 1px solid #000;
+  margin-top: auto;
+  border-top: 0cm;
   text-align: center;
 }
