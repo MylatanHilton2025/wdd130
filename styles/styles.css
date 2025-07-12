@@ -14,10 +14,10 @@ h1 {
 aside {
     width: 200px;
     margin:2;
-    border:10px solid rgba(0,0,0,2); 
+    border: 5pxpx solid rgba(0,0,0,2); 
     padding: 0;
     background-color: #eee;
-   color: cornflowerblue;
+   color:black
 
         
 }
@@ -29,7 +29,7 @@ main img {
     width: 200px;
     height: auto;
     margin: 1em;
-    border:10px solid rgba(0,0,0,2); 
+    border:5px solid rgba(0,0,0,2); 
     padding: 1rem;
     background-color: #eeeeee;
     color: black;
