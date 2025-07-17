@@ -6,6 +6,7 @@ nav a {color: white;
     display: block;
     padding: 20px;
 }
+
 h1 {
     color: darkblue;
     }
@@ -21,8 +22,10 @@ aside {
 }
 aside img { 
     width: 200px;
-    height: auto;}
-    
+    height: auto;
+    box-shadow: red 3px 5px 3px;
+}
+
 main img {
     width: 200px;
     height: auto;
@@ -31,7 +34,8 @@ main img {
     padding: 1rem;
     background-color: #eeeeee;
     color: black;
-    box-shadow: red 3px 5px 3px;}
+    box-shadow: red 3px 5px 3px;
+}
 
 p { padding:0;}
 
