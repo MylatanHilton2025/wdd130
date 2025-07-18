@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wdth,wght@75..100,900&family=Special+Gothic+Expanded+One&display=swap');
 #https://coolors.co/ebebeb-feffeb-c9c9c9-e0e0e0;
 :root {
     --primary-color: #ebebeb; /* Light Gray */
@@ -6,7 +6,7 @@
     --accent1-color: #c9c9c9; /* Gray */
     --accent2-color: #e0e0e0; /* Light Gray */
     --heading-font: "Merriweather Sans", sans-serif;
-    --body-font-family: 'Roboto', sans-serif;
+    --body-font-family: "Roboto", sans-serif;
 }
 
 header {
@@ -21,7 +21,7 @@ header {
 
 body {
     font-family: "Roboto", sans-serif;
-    font-weight: 700;
+    font-weight: 900;
     color: var(--accent1-color#c9c9c9);
 }
 
@@ -31,7 +31,7 @@ header,main,footer {
 }
 
 h1,h2{
-    font-weight: 100;
+    font-weight:400;
      color: var(--primary-color #ebebeb);
 }
 
@@ -64,7 +64,7 @@ h1{
     text-align: center;
     opacity: 0.7;
     background-color: var(--accent1-color#c9c9c9);
-    color: wheat;
+    color: black;
 }
 
 .hero article {
